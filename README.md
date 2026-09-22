@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://i.postimg.cc/nV9mHdLy/xulu-download-welcome-1111.jpg" alt="VJ-Filter-Bot Logo" alt="XULU-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  XULU FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+XULU+Filter+Bot!)
 </p>
 
 ## Main Feature 
